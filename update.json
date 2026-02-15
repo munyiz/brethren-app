@@ -1,8 +1,9 @@
 {
   "latestVersionCode": 7,
-  "updateUrl": "Brethren.App.apk",
-  "forceUpdate": true
+  "updateUrl": "https://github.com/munyiz/brethren-app/releases/download/7.0/Brethren.App.apk",
+  "forceUpdate": true 
 }
+
 
 
 
